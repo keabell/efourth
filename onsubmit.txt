@@ -1,0 +1,12 @@
+<form method="post" action="trial.htm" onsubmit="return checkFields()">
+
+Name: <input type="text" id="name"><br><br>
+
+Email: <input type="text" id="email"><br><br>
+
+<input type="submit" value="Submit">
+
+</form>
+
+<br>
+<a href="4ICT4.html"> &#8592; Back </a> <br><br>

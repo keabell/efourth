@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+  <html>
+   <head><title>My 1st JS</title>
+    <script type="text/Javascript">
+      document.write("Hello World");
+    </script>
+   </head>
+   <body>
+    <br>
+      This portion holds contents of the body tag.
+   </body>
+  </html>
+
+<br><br>
+
+<a href="4ICT3.html"> &#8592; Back </a> <br><br>
