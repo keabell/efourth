@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('background.jpg'); background-size: cover; background-repeat: no-repeat; color: white;">
+
+<h1 class="heading"> E-Portfolio </h1>
+
+<div class="topnav">
+  <a class="nav" href="index.html">Home</a>
+  <a class="nav" href="abtme.html">My Personal Space</a>
+  <a class="nav" href="ICT.html">ICT</a>
+  <a class="nav" href="AP.html">AP</a>
+  <a class="nav" href="events.html">Events</a>
+</div>
+<br><br>
+
+<a class="back" href="4THQ.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content"> Lesson 4 </h1><br>
+
+<h3 class="textf" style="font-size:20px;"> What are Events? </h3>
+<p style="margin-left:30px;"> Events are actions that are triggered either by mouse click, function calls, keyboard strokes, loading of images, submitting an HTML form, etc. Events are usually used in connection with functions. Functions will not work without a force that will trigger it. </p>
+
+<ol style="font-size:24px;">
+
+
+<h3 class="textf" style="margin-left:420px;"> Table of Event Triggers </h3>
+
+<table style="border-collapse:collapse; margin:20px; font-family:Arial; color:SteelBlue; display:inline-block; font-size:16px;">
+
+<tr style="background-color:#2F5D8A; color:White;">
+<th style="border:2px solid SteelBlue; padding:6px;">Attribute</th>
+<th style="border:2px solid SteelBlue; padding:6px;">To Trigger the Event</th>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onabort</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The loading of an image is interrupted.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onblur</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">An element loses focus.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onchange</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The user changes the content of a field.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onclick</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">Mouse click of an object.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">ondblclick</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">Double mouse click on an object.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onerror</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">An error occurs when loading a document or image.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onfocus</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">An element gets focus.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onkeydown</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A keyboard key is pressed.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onkeypress</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A keyboard key is held down.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onkeyup</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A keyboard key is released.</td>
+</tr>
+
+</table>
+
+
+<table style="border-collapse:collapse; margin:20px; font-family:Arial; color:SteelBlue; display:inline-block; font-size:14px;">
+
+<tr style="background-color:#2F5D8A; color:White;">
+<th style="border:2px solid SteelBlue; padding:6px;">Attribute</th>
+<th style="border:2px solid SteelBlue; padding:6px;">To Trigger the Event</th>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onload</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A page or image is finished loading.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onmousedown</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A mouse button is pressed.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onmousemove</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A mouse is moved.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onmouseout</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The mouse is moved off an element.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onmouseover</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The mouse is moved over an element.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onmouseup</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A mouse button is released.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onreset</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The reset button is clicked.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onresize</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">A window or frame is resized.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onselect</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">Text is selected.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onsubmit</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The submit button is clicked.</td>
+</tr>
+
+<tr>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">onunload</td>
+<td style="border:2px solid SteelBlue; padding:6px; background-color:White;">The user exits the page.</td>
+</tr>
+
+</table> <br>
+
+<p style="font-size:20px;"> <b> onload and onunload </b> </p> <br>
+<p style="margin-left:20px; font-size:17px;"> The onload and onunload events are triggered when a user enters or exits a Web page. The onload event can be used to check the Web browser version type and version. The onload and onunload events can also be used to store and retrieve cookies. A cookie is a message given to a Web browser </p> <br>
+<p  style="font-size:20px;"> <b> onfocus, onblur and onchange </b> </p> <br>
+<p style="margin-left:20px; font-size:17px;"> These attributes are often used with the validation of fields in a form. </p> <br>
+<p  style="font-size:20px;"> <b> onsubmit </b> </p><br>
+<p style="margin-left:20px; font-size:17px;"> This attribute is used to validate all fields in the form before submitting it. </p> <br>
+
+  <div class="reflection-container">
+    <div class="reflection-text">
+      <h1 class="content" style="font-size:24px;"> Example using onsubmit: </h1> <br>
+    </div>
+
+    <div class="media-row" style="width:500px; height:auto; object-fit:cover;">
+      <img src="onsubmit.jpg" alt="Photo">
+    </div>
+
+    <div class="reflection-text">
+      <a class="output" href="onsubmit.html"> Browser Output </a> <br><br>
+      <p style="font-size:18px;"> This is how the onsubmit attribute is usually written. When the submit button is clicked, it will call the function checkFields(). The function will check all the fields in the form. If everything is cleared, it will return a ‘true’ so the form will be submitted; otherwise, it will return a ‘false’ so the form will be cancelled. </p>
+    </div>
+   </div>
+
+<ul>
+    <p> <b> onmouseover and onmouseout </b> </p>
+    <li style="margin-left:25px; font-size:16px;"> These attributes are usually used for animation purposes. Take for example, a button or link in a web page. When the mouse is over it, it will display a different image, however, when you remove the mouse, the button is set back to what it was. </li> <br>
+    <p> <b> onclick </b> </p>
+    <li style="margin-left:25px; font-size:16px;"> This is usually used to connect you to another webpage or to trigger an event call. Take for example, a button in a Web page. If that button is pressed, it will trigger a function that will call a popup button. </li>
+</ul>
+
+<h3 class="textf"> What are Popup Boxes? </h3> <br>
+<p style="margin-left:25px; font-size:16px;"> Popup boxes are those windows that pop-out of your screen. They could be before a page is fully loaded, effect of an event on a page or before leaving a page. </p> <br>
+
+<p style="font-size:18px;"> JavaScript has three kinds of popup boxes; alert box, user-input prompt box and confirm box. These popup boxes can be useful in warning the user, gathering user input or simply to verify something. </p> <br>
+
+<ul>
+<p> <b> Alert Box </b> </p>
+<li style="margin-left:25px; font-size:16px;"> This is usually used when you want to make sure that the user reads your message such as warning
+or a greeting. </li> <br>
+<p> <b> Syntax: </b> </p>
+<li style="margin-left:25px; font-size:16px;"> alert("message"); </li>
+</ul>
+
+<img src="ab.jpg" alt="ab" width="300" height="200"> <br>
+
+<a class="output" href="ab.html"> Browser Output </a> <br><br>
+
+<p> <b> Note: <b> <br> When the button is clicked, an alert message in the form of a popup box will be shown. </p>
+
+<ul>
+<p> <b> User-Input Prompt Box </b> </p>
+<li style="margin-left:25px; font-size:16px;"> This is usually used when you want data to be prompted first before the user can enter a page. The user will have to choose either "ok" or "cancel" to continue. If the user chooses “ok”, the prompt box will return the encoded value, else, it will return null. </li> <br>
+<p> <b> Syntax: </b> <br> prompt("message","defaultvalue"); </p>
+</ul>
+
+<img src="pb.jpg" alt="pb" width="300" height="200"> <br>
+
+<a class="output" href="pb.html"> Browser Output </a> <br><br>
+
+<p> <b> Note: </b> When the button is clicked, a prompt box will be shown asking for the user input. The user input will be saved on the variable name. The user input will then be validated. </p> <br>
+
+<ul>
+<p> <b> Confirm Box <b> </p> <br>
+<li style="margin-left:25px; font-size:16px;"> This is usually used when you want the user to verify or accept something. The user will have to choose either “ok” and “cancel”. If “ok” was chosen, the confirm box will return true; else, it will return false. </li> <br>
+<p> <b> Syntax: </b> <br> confirm("message"); </p>
+</ul>
+
+<img src="cb.jpg" alt="cb" width="300" height="200"> <br>
+
+<a class="output" href="cb.html"> Browser Output </a> <br><br>
+
+<p style="font-size:18px;"> <b> Note: </b> <br> When the button is clicked, a confirmation box will be shown asking for confirmation if it will proceed. The choice will be saved on the variable ans. The choice will then be used to activate the proper block of code. </p>
+
+<h3 class="textf"> What is a Variable? </h3>
+<p style="font-size:18px;"> A variable is a temporary storage of values and expressions. Expressions are formulae that use mathematical symbols and numbers or a way to assign values to a variable. For example, x=1+3 is an expression and the value o=f x will hold the sum of one plus three which is four. In declaring a variable, there are certain rules to follow: </p>
+
+<ul> 
+<li style="margin-left:25px; font-size:16px;"> <b> Variable names are case-sensitive </b> – an uppercased variable such as “X” is different from a lowercase variable “x”. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> Variable names must begin with a letter or underscore (“_”). </li> <br>
+<li style="margin-left:25px; font-size:16px;"> The rest of the name must consist of letters, numbers or underscores. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> Avoid naming variables using reserved words. Reserved words are words reserved by JavaScript for its own use. </li> <br>
+<p> Take note: if you do not declare a variable and you give the variable a value, the variable will automatically be declared. </p> <br>
+<li style="margin-left:25px; font-size:16px;"> Variables can hold numbers, expressions or string literals. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> String literals are text enclosed in pairs of quotation marks. Numeric digits are inside the quotation marks will be considered as as string and will lose then its numeric value </li> <br>
+<p style="font-size:18px;"> If the characters are not enclosed in quotation
+marks, JS might interpret the characters as an
+object or a function. </p> <br>
+<li style="margin-left:25px; font-size:16px;"> To declare a variable, use the keyword var then the variable name equal to its value/expression. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> JS variables are loosely typed, so data types are not required to be defined in advance. This feature is an advantage since it can adapt its data type from the kind of value assigned to it. It can be an integer, string Boolean, etc. It can change during runtime; however, be careful in assigning values because it you make a mistake, it will be hard to detect such kind of errors. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> Boolean is a fundamental data type in programming that represents one of two possible values: true or false. It is used to represent logical truth values, acting as the foundation for decision-making in code, such as determining which path a program should follow. </li>
+</ul>
+
+<ul>
+<p> <b> Example of variable declaration: </b> <br>
+<li style="margin-left:30px; font-size:16px;"> var x = 5; </li> <br>
+<li style="margin-left:30px; font-size:16px;"> var y = x+5; </li> <br>
+<li style="margin-left:30px; font-size:16px;"> var fan = “Standard”; </li> <br>
+<li style="margin-left:30px; font-size:16px;"> var isDone = false; </li> <br>
+<li style="margin-left:25px; font-size:16px;"> JS uses the same arithmetic operations as in most programming languages, like C. An arithmetic operator is a symbol used to tell the expression what kind of operation will be done. </li> <br>
+<p> <b> Operator Description Example </b> </p> <br>
+<li style="margin-left:25px; font-size:16px;"> + Addition Sum=x+y </li><br>
+<li style="margin-left:25px; font-size:16px;"> - Subtraction Diff=x-y </li> <br>
+<li style="margin-left:25px; font-size:16px;"> * Multiplication Times=x*y </li><br>
+<li style="margin-left:25px; font-size:16px;"> / Division Div=x/y </li><br>
+<li style="margin-left:25px; font-size:16px;"> % Modulus Mod=x%y </li> <br>
+<li style="margin-left:25px; font-size:16px;"> ++ Increment by 1 Inc=x++ </li> <br>
+<li style="margin-left:25px; font-size:16px;"> -- Decrement by 1 Dec=x-- </li> <br>
+<p> Modulus is performed by the remainder operator (%), which calculates the remainder after one number (the dividend) is divided by another (the divisor) </p> <br>
+<li style="margin-left:25px; font-size:16px;"> <b> The addition symbol (‘+’) can also be used to add strings or text values together – </b> this is called concatenation. However, if you add a string and a numerical value, the result will still be a string. </li><br>
+<li style="margin-left:25px; font-size:14px;"> SentenceA = “Good” </li> <br>
+<li style="margin-left:25px; font-size:14px;"> SentenceB = “Morning” </li> <br>
+<li style="margin-left:25px; font-size:14px;"> SentenceC = “SentenceA + “” SentenceB + 2 + 4 </li><br>
+<p style="font-size:17px;"> <b> Output: </b> <br> Good Morning 24 </p>
+<li style="margin-left:25px; font-size:16px;"> Remember the order of precedence when dealing with expressions. Innermost parentheses come first, then the outer parentheses are evaluated followed by multiplication, division or modulus operation. The addition or subtraction symbol is taken into consideration last. </li> <br>
+<li style="margin-left:25px; font-size:13px;"> X=5+3/2*6 </li><br>
+<li style="margin-left:25px; font-size:13px;"> =14 </li> <br>
+<li style="margin-left:25px; font-size:13px;"> Y=(5+3)/2*6 </li> <br>
+<li style="margin-left:25px; font-size:13px;"> =24 </li> <br><br>
+<li style="margin-left:25px; font-size:16px;"> The ++ and – operator can be used in several different ways; however, the answer will depend on how you use it. If you use it independently, x++; it will have the same result as ++x. If these operators are used in a formula or an expression, they will have an impact on the result. Avoid using these operators if you do not fully understand how to use them </li> <br>
+<p> <b> Example using ++ and -- operators </b> <br> Let x=5, y=7 and z=0 </p>
+<ol>
+<li style="margin-left:25px; font-size:16px;"> x = y++ <br> result: x=7, y=8 </li><br>
+<li style="margin-left:25px; font-size:16px;"> x = ++y <br> result: x=8, y=8 </li><br>
+<li style="margin-left:25px; font-size:16px;"> z =x++ * ++y <br> result: x=6, y=8, z=40 </li><br>
+</ol>
+</ul>
+
+<h3 class="text"> What are Comparison Statements? </h3> <br>
+<p style="font-size:18px;"> Comparison statements are used to evaluate the quality or the difference between variables or values. </p> <br>
+
+
+<p style="font-size:18px;"> Logical operators are used to determine the logic between expressions, variables, or values. It is usually used by two or more expressions to satisfy the needed conditions. JS also has its own conditional operator that automatically assigns a value depending on the result of the condition. </p><br>
+
+<p style="font-size:18px;"> Conditional statements are used to perform different operations
+based on the set conditions. There are different kinds of conditional
+statements. These are: </p>
+<ul>
+<li style="margin-left:25px; font-size:16px;"> if statement – used to check if a specified condition is true. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> if-else statement – used to check if the condition is true and performs an action if the condition is false. </li><br>
+<li style="margin-left:25px; font-size:16px;"> if-else if.else statement – used to check if one or more blocks of code can be executed. </li> <br>
+<li style="margin-left:25px; font-size:16px;"> switch statement – used if you want to select one of many blocks of code to be executed. </li> <br>
+<br>
+<p> <b> Example using the if block: </b> </p> <br>
+<p style="font-size:18px;"> &lt;script type=“text/JavaScript”&gt; <br>
+//Buy the orange only if you have exactly 5 coins <br>
+ if (coins==5) <br>
+ {document.write(“&lt;b&gt;Buy the Orange!&lt;/b&gt;”);} <br>
+&lt;/script&gt; </p>
+
+<p style="font-size:18px;"> <b> Note: </b> the term block is used instead of statement because a block is composed of several statements. The if block will execute the codes that are within the set of braces, if the condition is satisfied. Additionally, if the code to be executed is only made up of a single line, there is no need to enclose it in braces. </p>
+
+<p style="font-size:18px;"> <b> Example using the if-else if-else block: </b> <br>
+&lt;script type=“text/JavaScript”&gt; <br>
+//Buy the orange if you have exactly 5 coins, if you have less than 4 <br>
+//coins, buy the apple instead. Otherwise, don’t buy anything. <br>
+if (coins==5) <br>
+{document.write(“&lt;b&gt;Buy the Orange&lt;/b&gt;”);} <br>
+else if (coins<4) <br>
+{document.write(“&lt;b&gt;Buy the Apple&lt;/b&gt;”);} <br>
+else <br>
+{document.write(“&lt;b&gt;Buy nothing&lt;/b&gt;”); <br>
+&lt;/script&gt; </p> <br>
+
+<p style="font-size:18px;"> <b> Note: </b> The else if statement executes codes other than the prior conditions. The else statement will be the last choice – that is, if there are no conditions that were met, it will fall under the else block. The JS Switch statement function like the if statement. It is a conditional statement; however, only one variable is taken into consideration and bears the condition. You can also use it to select one or more blocks of code to be executed. To prevent it from continuously executing other blocks of code after it, you must use the break statement. </p>
+
+<br><br><br>
+<a class="back" href="4ICT4.html"> &#8593; Back to Top </a> <br><br>
+
+</body>
+</html>

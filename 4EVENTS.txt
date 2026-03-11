@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('background.jpg'); background-size: cover; background-repeat: no-repeat; color: white;">
+
+<h1 class="heading"> E-Portfolio </h1>
+
+<div class="topnav">
+  <a class="nav" href="index.html">Home</a>
+  <a class="nav" href="abtme.html">My Personal Space</a>
+  <a class="nav" href="ICT.html">ICT</a>
+  <a class="nav" href="AP.html">AP</a>
+  <a class="nav" href="events.html">Events</a>
+</div>
+<br><br>
+
+<h1 class="head2"> Events </h1>
+<br><br>
+
+  <div class="reflection-container">
+    <div class="media-row">
+      <img src="opm.jpg" alt="Photo">
+      <img src="opm2.jpg" alt="Photo">
+    </div>
+
+    <div class="reflection-text">
+      <h1 class="content"> OPM Duet </h1> <br>
+      <p> I learned from this competition that aside from talent, confidence and teamwork are also key  performing. <br> I can apply what I learned by practicing before presenting to gain more confidence, and communicating with my partner/partners. <br> Yes, I participated actively in this event by cheering for the contestants, especially for the grade 9 batch to show my support for them. <br> I would teach others by explaining to them how important confidence is, and that teamwork is important to avoid conflicts before, during, or after performing. </p>
+    </div>
+   </div>
+
+<br> <br>
+
+  <div class="reflection-container">
+    <div class="media-row">
+      <img src="fd.jpg" alt="Photo">
+      <img src="folk.jpg" alt="Photo">
+    </div>
+
+    <div class="reflection-text">
+      <h1 class="content"> Folkdance </h1> <br>
+      <p> I learned that coordination is important especially when dancing folk dances, and that energy is needed to be able to keep up with the rhythm, and to influence others with the energy.  <br> I can apply what I learned by making sure that the dancers are enjoying so that their energy and coordination will be maintained. <br> Yes, I participated actively in this event by cheering for the dancers from each grade level, especially for the grade 9s to keep the spirit up and energy lively. <br> I would teach others by showing them the difference of dancing with coordination and energy and dancing without coordination and energy. <br> Events like these are important for us to remember and strengthen our Filipino culture. </p>
+    </div>
+   </div>
+
+<br> <br>
+
+  <div class="reflection-container">
+    <div class="media-row">
+      <img src="street.jpg" alt="Photo">
+      <img src="sd.jpg" alt="Photo">
+    <video controls>
+         <source src="streetdance.mp4" type="video/mp4">
+    </video>
+    </div>
+
+    <div class="reflection-text">
+      <h1 class="content"> Streetdance </h1> <br>
+      <p> I learned from this event that coordination, teamwork, and energy is important, especially in dancing, along with this, listening is also important to be able to follow the dance steps. Here, I also learnt how important practicing is to improve body coordination. <br> I can apply what I learned by practicing at home and living in the moment to truly enjoy dancing. <br> Yes, I participated actively in this event by joining the actual competition, by practicing with my group, and by cheering on other groups during their performances, and overall being a good sport. <br> I would teach others by explaining to them how practice can have a significant impact in everything, for this instance, dancing. <br> Events like these are important for students to showcase their skills and talents, and for us to learn how to cooperate with other members. </p>
+    </div>
+   </div>
+
+<br> <br>
+
+  <div class="reflection-container">
+    <div class="media-row">
+      <img src="botb1.jpg" alt="Photo">
+      <img src="botb2.jpg" alt="Photo">
+    </div>
+
+    <div class="reflection-text">
+      <h1 class="content"> Battle of the Bands </h1> <br>
+      <p> I learned from this event that efforts truly do pay off, because most of the bands, especially from the grade 9 level, have joined this event in the previous school years, and has gained awards this school year. <br> I can apply what I learned by persevering through every obstacle and really putting effort in everything I do. <br> Yes, I participated actively by attending the event, and cheering the bands on. <br> I would teach others by explaining to them how perseverance is important to reach goals and victory/triumph. <br> Events like these are important for students to showcase their skills and talents, and influence others to also join. </p>
+    </div>
+   </div>
+
+<br> <br>
+
+  <div class="reflection-container">
+    <div class="media-row">
+      <img src="mda1.jpg" alt="Photo">
+      <img src="mda2.jpg" alt="Photo">
+    </div>
+
+    <div class="reflection-text">
+      <h1 class="content"> Miting de Avance </h1> <br>
+      <p> I learned the importance of voting and how we should carefully think and weigh the candidates' credentials before voting to ensure a good, responsible supreme student leader government. <br> I can apply what I learned by voting wisely, whether it may be in school or the elections when I grow up. <br> Yes, I participated actively by listening to their responses and by voting. <br> I will teach others about how choosing to vote wisely or not can have a significant effect in our daily lives. <br> Events like these are important for the school, especially the students, since these leaders are the ones who will be in charge/manage future events regarding the school. </p>
+    </div>
+   </div>
+
+<br> <br>
+
+  <div class="reflection-container">
+    <div class="media-row">
+      <img src="noli1.jpg" alt="Photo">
+      <img src="noli2.jpg" alt="Photo">
+    </div>
+
+    <div class="reflection-text">
+      <h1 class="content"> Noli me Tangere </h1> <br>
+      <a class="back" href="https://www.youtube.com/watch?v=BZzZuFfydwI" target="_blank"> Noli Me Tangere </a>
+      <p> I learnt more about the history of the Philippines, especially during the times of Jose Rizal and when our country was heavily influenced by Spain. During the actual play, I learned that teamwork, practice, and determination is very important for the play to be good. <br> I can apply what I learned by focusing on the play especially during practices, and listening to the committee in charge. <br> Yes, I participated actively by acting, providing and helping in props, and attending practices. <br> I will teach others about the influence the Spaniards had on the Filipinos before by making them watch our play, and telling the story of Rizal's life and experiences. <br> Events like these are important for us as a section to cooperate, and prepare us for future plays in the upcoming academic school year. </p>
+    </div>
+   </div>
+
+<br> <br>
+
+
+
+</body>
+</html>

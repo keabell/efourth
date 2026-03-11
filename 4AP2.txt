@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('parchment2.jpg'); background-size: contain; background-repeat:repeat; color: white;">
+
+<h1 class="heading AP"> E-Portfolio </h1>
+
+<div class="topnav AP">
+  <a class="nav AP" href="index.html">Home</a>
+  <a class="nav AP" href="abtme.html">My Personal Space</a>
+  <a class="nav AP" href="ICT.html">ICT</a>
+  <a class="nav AP" href="AP.html">AP</a>
+  <a class="nav AP" href="events.html">Events</a>
+</div>
+<br><br>
+
+
+<main>
+     <a class="back AP" href="Q4TH.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content AP"> Lesson 2 : Agrikultura </h1><br><br>
+<p class="AP"> isang agham at sining na may kinalaman sa pagpaparami ng mga hayop at mga tanim o halaman. Ito’y may kaugnayan sa lahat ng gawain ng sangkot ang mga hayop at halaman. Ager - “Lupa”, Cultura - “Paglilinang” </p>
+
+<h3 class="text AP" style="font-size:20px;"> Mga Gawaing Sektor ng Agrikultura </h3> <br>
+     <ul> 
+         <li style="color:#7B4F24; margin-top:-10px;"> Pagsasaka </li> <br>
+         <li style="color:#7B4F24; margin-top:-10px;"> Pangingisda </li> <br>
+         <li style="color:#7B4F24; margin-top:-10px;"> Paghahayupan </li> <br>
+         <li style="color:#7B4F24; margin-top:-10px;"> Paggubat/Pagtotroso </li> 
+     </ul></li> <br>
+
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:20px; font-weight:bold; margin-top:20px;"> Gampanin ng Pagsasaka </h3>
+<p class="AP" style="font-size:18px; margin-left:40px;"> - Maraming mga pangunahing pananim ang bansa tulad ng palay, mais, niyog, tubo, saging, pinya, kape, mangga, tabako, & abaka. <br> 
+- Tinatayang umabot ng ₱797.731 bilyon ang kabuuang kita mula sa pagsasaka. Ito’y nagmula sa mga produktong palay, mais, at iba pang pangunahing pananim ng Pilipinas. </p>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:20px; font-weight:bold; margin-top:20px;"> Gampanin ng Paghahayupan </h3>
+<p class="AP" style="font-size:18px; margin-left:40px;"> - Ang sangay ng agrikultura na may kinalaman sa mga hayop na itinaas para sa karne, habila, gatas, itlog, o iba pang mga produkto. <br> 
+- Kasama rito ang pang-araw-araw na pangangalaga, pumipili ng pag-aanak at pagpapalaki ng hayop. </p>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:20px; font-weight:bold; margin-top:20px;"> Gampanin ng Pangingisda </h3>
+<p class="AP" style="font-size:18px; margin-left:40px;"> - Itinuturing ang Pilipinas bilang isa sa mga pinakamalaking tagatustos ng isda sa buong mundo. Samantala, ang pangingisda ay nauuri sa tatlo: </p> <br>
+<ul> 
+<li style="color:#7B4F24; margin-top:-30px; margin-left:30px;"> Komersiyal, Munisipal, at Aquaculture </li> <br>
+</ul>
+<p class="AP" style="font-size:18px; margin-left:40px;"> - Bahagi din ng gawaing pangingisda ay ang panghuhuli ng hipon, sugpo, at pag-aalaga ng mga dagat na ginagamit sa paggawa ng gulaman. </p> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:20px; font-weight:bold; margin-top:20px;"> Gampanin ng Paggugubat </h3> <br>
+<p class="AP" style="font-size:18px; margin-left:40px;"> - Plywood, tabla, troso, veneer </p> <br>
+
+
+
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> KAHALAGAHAN NG AGRIKULTURA </h3><br>
+<ul>
+    <li style="color:#7B4F24;"> - Nagpapasok ng dolyar sa ating bansa. </li> 
+    <li style="color:#7B4F24;"> - Pinagkukunan ng sobrang manggagawa patungo sa ibang sektor ng ekonomiya. </li> 
+    <li style="color:#7B4F24;"> - Nagkakaloob ng trabaho sa maraming Pilipino. </li> 
+    <li style="color:#7B4F24;"> - Ito’y pinagmulan ng pagkain. </li> 
+    <li style="color:#7B4F24;"> - Pinagkukunan ng hilaw na materyales na ginagamit ng industriya upang makabuo ng panibagong produkto. </li> <br> 
+</ul>
+
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> SULIRANIN NG AGRIKULTURA </h3><br>
+<p  class="AP"> <b> Pagsasaka: </b> </p> <br>
+<img src="saka.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - paliit ng  lupa ng sakahan. </li> 
+    <li style="color:#7B4F24;"> - paggamit ng bagong maka teknolohiya. </li> 
+    <li style="color:#7B4F24;"> - kakulangan sa mga pasilidad at imprastraktura sa kabukiran. </li> 
+    <li style="color:#7B4F24;"> - kakulangan ng suporta mula sa iba pang sektor. </li> 
+    <li style="color:#7B4F24;"> - pagbibigay prayoridad sa sektor ng industriya pagdagsa ng dayuhang kalakal. </li> 
+    <li style="color:#7B4F24;"> - climate change. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Pangingisda: </b> </p> <br>
+<img src="isda.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - kahirapan sa hanay ng mga mangingisda. </li> 
+    <li style="color:#7B4F24;"> - mga mapanirang operasyon ng pangingisda. (Hal: Dynamite Fishing) </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Paghahayupan: </b> </p> <br>
+<img src="hayop.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - mga peste o sakit. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Paggugubat: </b> </p> <br>
+<img src="gubat.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - mabilis na pagkaubos ng likas na yaman. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> MGA PATAKARAN & PROGRAMA HINGGIL SA PAGPAPAUNLAD SA AGRIKULTURANG SEKTOR </h3><br>
+<p  class="AP"> <b> Panahon hindi Nasakop ang Pilipinas </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> ang mga sinaunang Pilipino ay napag alamang nakakapag-may-ari ng lupa sa pamamagitan ng pagiging unang nagtayo ng bahay. </li> <br>
+    <li style="color:#7B4F24;"> wala pa noong titulo o rights na matatawag. </li> <br>
+    <li style="color:#7B4F24;"> ang pinagbabasehan lang nila ay ang salita ng bawat isa bilang paggalang. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Panahon ng Kastila </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> <b> Encomienda System: </b> Lupang gantimpala sa matapat na naglilingkod sa hari ng Espanya at mga Pilipinong loyal sa kanila. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Panahon ng Amerikano </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> Binili 160,000 ektarya ng lupa mula sa mga prayle. </li> <br>
+    <li style="color:#7B4F24;"> <b> Public Land Act ng 1902: </b> Nakapagloob dito ang pamamahagi ng mga lupaing pampubliko sa mga pamilya na nagbubungkal ng lupa.  </li> <br>
+    <li style="color:#7B4F24;"> <b> Land Registration Act ng 1902: </b> Sistemang Torrens, ang mga titulo ng lupa ay ipinatalang lahat. </li> <br>
+    <li style="color:#7B4F24;"> <b> Batas Republika ng 1160: </b> Nagtatag ng National Resettlement & Rehabilitation Administration (NARRA). </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Panahon ng Kasarinlan </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> <b> Batas Republika Bilang 1190 ng 1954: </b> Nagbibigay proteksyon laban sa mga pang-aabuso, pananamantala at pandaraya ng mga may-ari ng lupa sa manggagawa. </li> <br>
+    <li style="color:#7B4F24;"> <b> Agricultural Land Reform Code of 1963: </b> Ito’y nagpalaya sa mabigat na trabaho; simula ng isang malawakang reporma sa lupa (Agosto 8, 1963). </li> <br>
+    <li style="color:#7B4F24;"> <b> Atas ng Pangulo Bilang 2 ng 1972: </b> Itinadhana ng kautusan na isailalim sa reporma sa lupa ang buong Pilipinas. </li> <br>
+    <li style="color:#7B4F24;"> <b> Atas ng Pangulo Bilang 27: </b> Lahat ng mga lupang sakahang natatamnan ng palay o mais nang lampas sa limit ng retensyong 7 ektarya bibilhin ng pamahalaan at ipapamahagi sa mga magsasakang walang lupa. </li> <br>
+     <li style="color:#7B4F24;"> <b> Batas Republika Blg. 6657 ng 1988: </b> “Comprehensive Agrarian Reform Law (CARL)”; Ipinamamahagi ng batas ang lahat ng lupang agrikultural anuman ang tanim nito sa mga walang lupang mapagsasakahan, pinahintulutan ng dating pangulo Corazon Aquino. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:20px; font-weight:bold; margin-top:20px;"> Nais Maisakatuparan ng Pamahalaan Upang Maiangat ang Kalagayang Pangkabuhayan ng mga Magsasaka Batay sa CARP 2003: </h3><br>
+<ul>
+    <li style="color:#7B4F24;"> Pagtatayo ng bahay-ugnayan para sa mga magsasaka upang masigurong mayroon suportang maibibigay sa kanila. </li> <br>
+    <li style="color:#7B4F24;"> Pagtatayo ng gulayan para sa mga magsasaka. </li> <br>
+    <li style="color:#7B4F24;"> Pagsisiguro na ang mga anak ng mga magsasaka ay makapag-aral kaya itinayo ang Pangulong Diosdado Macapagal Agrarian Reform Scholarship Program. </li> <br>
+    <li style="color:#7B4F24;"> - KALAHI Agrarian Reform Zones. </li> <br>
+</ul> <br>
+<p  class="AP" style="margin-left:40px;"> <b> Pangingisda </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24; margin-left:45px;"> Fishery Research. </li> <br>
+    <li style="color:#7B4F24; margin-left:45px;"> <b> Philippine Fisheries Code of 1998: </b> Paglilimita ng pamahalaan at naglalayon ng wastong paggamit sa yamang tubig. </li> <br>
+</ul> <br>
+<p  class="AP" style="margin-left:40px;"> <b> Pagtotroso </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24; margin-left:45px;"> CLASP </li> <br>
+    <li style="color:#7B4F24; margin-left:45px;"> NIPAS </li> <br>
+    <li style="color:#7B4F24; margin-left:45px;"> Sustainable Forest Management Strategy (SFMS) </li> <br>
+</ul> <br>
+
+<br><br><br>
+
+<a class="back AP" href="4AP2.html"> &#8593; Back to Top </a> <br><br>
+
+
+</body>
+</html>

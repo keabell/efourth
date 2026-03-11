@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('background.jpg'); background-size: cover; background-repeat: no-repeat; color: white;">
+
+<h1 class="heading"> E-Portfolio </h1>
+
+<div class="topnav">
+  <a class="nav" href="index.html">Home</a>
+  <a class="nav" href="abtme.html">My Personal Space</a>
+  <a class="nav" href="ICT.html">ICT</a>
+  <a class="nav" href="AP.html">AP</a>
+  <a class="nav" href="events.html">Events</a>
+</div>
+<br><br>
+
+<a class="back" href="4THQ.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content"> Lesson 2 </h1><br>
+
+<h3 class="textf" style="font-size:20px;"> Where can you place Scripts? </h3>
+<p> There are times when we want to execute the codes depending on the situation. It could be pre-loaded, or to be triggered whenever an event happens. This is possible in JavaScript. You can control the execution of the codes by placing it in different sections of the HTML file. </p> <br><br>
+
+<h3 class="text" style="font-size:20px;"> Head </h3>
+<p> Whenever the scripts are placed here, you are assured that they will be pre-loaded – it means the scripts will be executed before anyone triggers an event. Scripts are ideally placed here are for functions calls. </p> <br><br>
+   
+<img src="head.jpg" alt="head" width="300" height="200"> <br>
+
+<a class="output" href="head.html"> Browser Output </a> <br><br>
+
+<h3 class="textf" style="font-size:20px;"> Body </h3> <br>
+<p> Scripts that are placed here are executed when the page loads. </p> <br><br>
+
+<img src="body.jpg" alt="body" width="300" height="200"> <br>
+
+<a class="output" href="body.html"> Browser Output </a> <br><br>
+
+<h3 class="text" style="font-size:20px;"> Head & Body </h3> <br>
+<p> You can place your script tags whenever and how many you want to. </p> <br><br>
+
+<img src="hnb.jpg" alt="hnb" width="300" height="200"> <br>
+
+<a class="output" href="hnb.html"> Browser Output </a> <br><br>
+
+<h3 class="textf" style="font-size:20px;"> EXTERNAL JAVASCRIPT </h3> <br>
+<p>External JavaScript files are helpful especially if you are using them to control different HTML files. There is no need to rewrite them all over again. Save the file having an extension of .js. To use the JavaScript file, all you have to do is use the src attribute and provide the destination of the file. </p> <br><br>
+
+<p> <b> &lt;script type=“text/JavaScript” src=“myJavaScript.js”&gt;&lt;/script&gt; </b> </p> <br>
+<p> The src attribute will point to the source of the JavaScript external file. Take note that the JavaScript file does not contain the opening and closing script tags. </p> <br>
+
+<p> There are times when you want to add a statement to explain a set of codes, or when we want to omit certain codes for debugging purposes, this can be done by inserting a comment. For single comments, you can use two backlash symbols; for multiple line or block comments, start with a &#47;&#42; and end with a &#42;&#47;. </p><br>
+
+<img src="ej.jpg" alt="ej" width="300" height="200"> <br>
+
+<a class="output" href="ej.html"> Browser Output </a> <br><br>
+
+<h3 class="text" style="font-size:20px;"> What are the JavaScript Guidelines? </h3> <br>
+<p> In coding JS, it is important to know the Do’s and Don’ts. This will save you time and keep you away from trouble in case errors occur. Listed below are the guidelines. </p>
+
+<ol>
+    <li> Case Sensitive </li>
+<p> You must be careful in naming your variables. The variable myHome is not equal to MyHome. It is important to keep track of your variables so there won’t be problems in calling variables, objects or functions. Unlike in HTML, uppercase letters are not equivalent to lowercase letters in JavaScript. </p> <br>
+    <li> White Space </li>
+<p> JavaScript ignores white space as long as it is within the line of the code. It is a good practice to use white spaces between expressions to make your codes easier to read <br><br> <b> Example:</b> var name = "Grace" var name="Grace" These two variable declarations are accepted. </p> <br>
+    <li> Breaking up of code lines </li>
+<p> You can break a code line by using a backslash ('\'). However, do not break the code in between commands or else it will not work properly. <br><br> <b> Example: </b> document.write("wow\Philippines"); - Accepted document.\write("wow Philippines") - Not accepted </p>
+</ol>
+
+<br><br><br>
+<a class="back" href="4ICT2.html"> &#8593; Back to Top </a> <br><br>
+
+</body>
+</html>

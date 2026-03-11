@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JavaScript</title>
+</head>
+<body>
+<script type="text/javascript">
+document.write("My comment");
+/* This is a multiple line comment */
+document.write("Their comment");
+</script>
+</body>
+</html>
+
+<br><br>
+<a href="4ICT2.html"> &#8592; Back </a> <br><br>

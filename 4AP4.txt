@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('parchment2.jpg'); background-size: contain; background-repeat:repeat; color: white;">
+
+<h1 class="heading AP"> E-Portfolio </h1>
+
+<div class="topnav AP">
+  <a class="nav AP" href="index.html">Home</a>
+  <a class="nav AP" href="abtme.html">My Personal Space</a>
+  <a class="nav AP" href="ICT.html">ICT</a>
+  <a class="nav AP" href="AP.html">AP</a>
+  <a class="nav AP" href="events.html">Events</a>
+</div>
+<br><br>
+
+
+<main>
+     <a class="back AP" href="Q4TH.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content AP"> Lesson 4 : Sektor ng Palilingkod </h1><br><br>
+<p class="AP"> - Ang umaalalay sa buong yugto ng produksyon, distribusyon, kalakalan, at pagkonsumo ng mga produkto sa loob o labas ng bansa. </b> - Kilala rin ito bilang tersarya o ikatlong sektor ng ekonomiya matapos ang agrikultura at industriya. </p> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Pormal na Sektor sa Ilalim ng Paglilingkod </h3><br>
+<p  class="AP"> <b> Transportasyon, komunikasyon, at mga imbakan </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Mga serbisyong pampublikong sasakyan, mga paglilingkod ng telepono at mga pinapaupahang bodega. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Kalakalan </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Pagpapalitan ng iba’t-ibang produkto at serbisyo. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Pananalapi </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Serbisyong may kinalaman sa bangko, insurance, at pamumuhunan. </li> <br>
+    <li style="color:#7B4F24;"> - Nagbibigay ng tulong pinansyal gaya ng mga bangko, bahay-sanglaan, atbp. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Paupahang bahay at Real Estate </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Mga paupahan tulad ng mga apartment, mga developer ng subdivision, town house, at condominium. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Paglilingkod ng Pampribado </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Lahat ng mga paglilingkod na nagmumula sa pribadong sektor ay kabilang dito. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Paglilingkod ng Pampubliko </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Lahat ng paglilingkod na ipinagkakaloob ng pamahalaan. </li> <br>
+</ul> <br>
+
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Mga Ahensiyang Tumutulong sa Sektor ng Paglilingkod </h3><br>
+<p  class="AP"> <b> Department of Labor and Employment (DOLE) </b> </p> <br>
+<img src="dole.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - Pangangalaga sa kapakanan ng mga manggagawang Pilipino, pagtataguyod ng maayos na oportunidad sa trabaho, at regulasyon ng mga patakaran sa paggawa sa bansa. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Overseas Workers Welfare Administration (OWWA) </b> </p> <br>
+<img src="owwa.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - Tumitingin sa kapakanan ng mga Overseas Filipino Workers. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Philippine Overseas Employment Administration (POEA) </b> </p> <br>
+<img src="poea.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - Isulong at paunlarin ang mga programa ukol sa paghahanapbuhay sa ibayong-dagat at pangalagaan ang kapakanan ng mga OFW.  </li> <br>
+    <li style="color:#7B4F24;"> - Itinatag sa bisa ng Executive Order 797 (1982). </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Technical Education and Skills Development Authority (TESDA) </b> </p> <br>
+<img src="tesda.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - Hikayatin ang buong partisipasyon ng industriya, paggawa, mga lokal na pamahalaan, at mga institusyong teknikal at bokasyonal upang sanayin at paunlarin ang kasanayan ng mga manggagawa sa bansa.  </li> <br>
+    <li style="color:#7B4F24;"> - Itinatag sa bisa ng R.A. 7796 (1994). </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Professional Regulation Commission (PRC) </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Nangangasiwa at sumusubaybay sa gawain ng mga manggagawang propesyonal upang matiyak ang kahusayan sa paghahatid ng mga serbisyong propesyonal sa bansa. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Commission on Higher Education (CHED) </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Nangangasiwa sa gawain ng mga pamantasan at kolehiyo sa bansa upang maitaas ang kalidad ng edukasyon sa mataas na antas. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Mga Batas na Nangangalaga sa Karapatan ng Manggagawa </h3><br>
+<p  class="AP"> <b> Artikulo 94 - Holiday Pay </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Tumutukoy sa bayad ng isang manggagawa na katumbas ng isang araw na sahod kahit hindi pumasok sa araw ng pista opisyal. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Republic Act 6727 - Wage Rationalization Act </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Nagsaad ng mga mandato para sa pagsasaayos ng pinakamababang pasahod o minimum wage. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Artikulo 91-93 - Premium Pay </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Karagdagang bayad sa manggagawa sa loob ng walong oras na trabaho sa araw ng pahinga at special days. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Artikulo 87 - Overtime Pay </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Karagdagang bayad sa pagtatrabaho na lampas sa 8 oras sa isang araw. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Artikulo 86 - Night Shift Differential </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Karagdagang bayad sa pagtatrabaho sa gabi na hindi bababa sa 10% ng kanyang regular na sahod sa bawat oras na ipinagtrabaho sa pagitan ng 10PM - 6AM. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Artikulo 96 - Service Charges </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Lahat ng manggagawa sa isang establishment na kumokolekta ng service charges ay may karapatan sa isang pantay o tamang bahagi sa 85% na kabuuang koleksiyon. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Artikulo 95 - Service Incentive Leave </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Bawat manggagawa na naglilingkod nang hindi kukulangin sa isang taon ay dapat magkaroon ng karapatan sa taunang service incentive leave ng limang araw na may bayad. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Republic Act 1161 - Maternity Leave </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ang bawat nagdadalang-taong manggagawa na nagtratrabaho sa pribadong sektor, kasal man o hindi, ay makakatanggap ng maternity leave. </li> 
+    <li style="color:#7B4F24;"> - Kasama ito sa benepisyong katumbas ng isang 100% na humigit kumulang na araw ng sahod ng manggagawa na nakapaloob sa batas. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Republic Act 8972 - Paternity Leave para sa mga solong magulang </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ipinagkaloob sa sinumang solong magulang o indibidwal na napag-iwanan ng responsibilidad ng pagiging magulang. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Republic Act 8187 - Paternity Leave </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Maaaring magamit ng empleyadong lalaki sa unang apat na araw mula nang manganak ang legal na asawa na kaniyang kapisan. </li> 
+    <li style="color:#7B4F24;"> - Pakikipagpisan: obligasyon ng asawang babae at asawang lalaki na magsama sa isang bubong. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Presidential Decree 851 - Thirteenth Month Pay </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Nagbibigay sa mga empleyado nang hindi lalagpas ng ika-24 ng Disyembre bawat taon. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Presidential Decree 626 - Benepisyo sa Employees Compensation Program </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Isang compensation package sa mga manggagawa sa pampubliko at pampribadong sektor sakaling may kaganapang pagkakasakit na may kaugnayan sa trabaho. </li> 
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Kahalagahan </h3><br>
+<ul>
+    <li style="color:#7B4F24;"> - Tinitiyak na makakarating sa mga mamimili ang mga produkto mula sa mga sakahan o pagawaan. </li> <br>
+    <li style="color:#7B4F24;"> - Nagbibigay ng trabaho sa mga mamamayan. </li> <br>
+    <li style="color:#7B4F24;"> - Tinitiyak ang maayos na pag-iimbak, pagtitinda ng kalakal at iba pa. </li> <br>
+    <li style="color:#7B4F24;"> - Nagpapataas ng GDP ng bansa. </li> <br>
+    <li style="color:#7B4F24;"> - Nagpapasok ng dolyar sa bansa. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Karagdagang Impormasyon </h3><br>
+<p class="AP> <b> Article 13, Section 3: </b> Katarungang Panlipunan at mga Karapatang Pantao sa Paggawa — dapat magkaloob ang estado ng lubos na proteksyon sa paggawa, lokal at sa ibang bansa, organisado at di-organisado, at dapat itaguyod ang puspusang empleyo at pantay na mga pagkakataon sa trabaho at para sa lahat. </p> <br>
+
+<p class="AP"> <b> Handbook Workers Statutory Monetary Benefits </b> </p> 
+<ul>
+    <li style="color:#7B4F24;"> - Nagsilbing gabay at dagdag kaalaman tungkol sa umiiral na batas sa larangan ng paggawa. </li> <br>
+</ul> <br>
+
+<p class="AP"> <b> Papel ng Sektor ng Paglilingkod </b> </p> 
+<ul>
+    <li style="color:#7B4F24;"> - Nagkakaloob ng lakas-paggawa, kasanayan, kaalaman, at serbisyo para sa kaunlarang pang-ekonomiya. </li> <br>
+</ul> <br>
+
+<p class="AP"> <b> Karl Marx: </b> ang mga manggagawa ang tunay na prodyuser ng bansa.  </p> <br>
+
+<p class="AP"> <b> Kontraktuwalisasyon: </b> ang isang manggagawa ay nakatali sa kontrata na mayroon siyang trabaho sa loob ng 5 buwan lamang. Kapag natapos na ang kontrata, kinakailangan niya nang umalis sa pinagtatrabahuhan. </p> <br>
+
+<p class="AP"> <b> Brain Drain: </b> pagkaubos ng mga manggagawa patungo sa ibang bansa. </p> <br>
+
+<p class="AP"> 8 oras ang regular na oras ng trabaho ng isang manggagawa sa isang araw. </p> <br>
+
+<br><br><br>
+
+<a class="back AP" href="4AP6.html"> &#8593; Back to Top </a> <br><br>
+
+
+</body>
+</html>

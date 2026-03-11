@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('parchment2.jpg'); background-size: contain; background-repeat:repeat; color: white;">
+
+<h1 class="heading AP"> E-Portfolio </h1>
+
+<div class="topnav AP">
+  <a class="nav AP" href="index.html">Home</a>
+  <a class="nav AP" href="abtme.html">My Personal Space</a>
+  <a class="nav AP" href="ICT.html">ICT</a>
+  <a class="nav AP" href="AP.html">AP</a>
+  <a class="nav AP" href="events.html">Events</a>
+</div>
+<br><br>
+
+
+<main>
+     <a class="back AP" href="Q4TH.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content AP"> Lesson 6 : Kalakalang Panlabas </h1><br><br>
+<p class="AP"> Tumutukoy sa palitan ng produkto at serbisyo sa pagitan ng mga bansa. <br> <b> Eksport/Pagluluwas - </b> Pagpapadala ng mga produkto at serbisyo sa ibang bansa. <br> <b> Import/Pag-aangkat - </b> Pagbili ng kalakal mula sa ibang bansa. </p> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Dahilan ng Kalakalang Panlabas </h3><br>
+<p  class="AP"> <b> Pagkakaiba sa Teknolohiya </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ang bansa ay maaaring magkaiba sa lebel ng teknolohiya kaya’t ang mga ito’y nakikipagpalitan sa isa’t isa upang matamasa ang bunga nito. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Pagkakaiba sa Pinagkukunang Yaman </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ang mga bansang salat sa likas-yaman gaya ng Japan & Korea ay napipilitang mag-angkat ng produkto samantalang malaking kita ang dala ng kalakalang panlabas sa mga bansang mayroong malawak na pagkukunang-yaman.Ang mga bansang salat sa likas-yaman gaya ng Japan & Korea ay napipilitang mag-angkat ng produkto samantalang malaking kita ang dala ng kalakalang panlabas sa mga bansang mayroong malawak na pagkukunang-yaman. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Pagkakaiba sa Panlasa </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Gawang imported & ang paniniwala na mas maganda ang kalidad nito kaysa sa gawang Pilipino. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Pagkakaiba sa Halaga ng Produksyon </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ang mga kompanya madalas ay pipili ng bansa kung saan mura ang labor, halaga ng mga salik, at kabuuang presyo ng produksiyon. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Patakarang Nakakaapekto sa Kalakalang Panlabas: </h3><br>
+<p  class="AP"> <b> Taripa/Tariff: </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Buwis sa mga produktong inaangkat. Maaring ipinipataw ito upang makalikom ng karagdagang pondo ang gobyerno ngunit kadalasan, naka-pagpapataas ito ng presyo at nakapagpababa ng benta ng inaangkat ng produkto. </li> 
+    <li style="color:#7B4F24;"> - Nagpapataw ng mataas na taripa ang gobyerno upang mapigil ang pagpasok ng dayuhang produktong kalaban ng lokal na produkto. </li>
+</ul> <br>
+
+<p  class="AP"> <b> Kota </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Maaring limitahan ang pagpasok ng mga kalabang produkto. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Subsidy/Sabsidiya: </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ito ang tulong na ibinibigay ng gobyerno upang bumaba ang halaga ng produksyon ng mga lokal na produkto. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Batayan ng Kalakalang Panlabas </h3><br>
+<p  class="AP"> <b> Absolute Advantage </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ang isang bansa ay masasabing may ganito sa pagprodyus sa isang kalakal kung nakakalikha ito ng mas maraming bilang ng produkto gamit ang mas kaunting salik ng produksyon kumpara sa ibang bansa. </li> 
+    <li style="color:#7B4F24;"> - MAS MARAMING NALILIKHA SA MAS KAKAUNTING KAGAMITAN = ABSOLUTE O GANAP NA KALAMANGAN. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Comparative Advantage </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Ang isang bansa ay masasabing may ganito kung ito’y magkakaroon ng espesyalisasyon sa paglikha ng kalakal. </li> 
+    <li style="color:#7B4F24;"> - MAS MABISA AT EPISYENTENG PAGGAWA O HINDI KAYA AY ESPESIYALISASIYON = KUMPARATIBANG KALAMANGAN. </li> 
+</ul> <br>
+
+<p  class="AP"> <b> Balance of Trade (BOT) </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Tumutukoy sa kalagayan ng kabayaran ng pagluluwas & kabayaran sa pag-aangkat. </li> 
+    <li style="color:#7B4F24;"> - <b> trade deficit </b> kung mas mataas ang import sa export </li> 
+    <li style="color:#7B4F24;"> - <b> trade surplus </b> naman kung mas mataas ang export sa import. </li> 
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Kabutihan ng Pakikipagkalakalan: </h3><br>
+<ul>
+    <li style="color:#7B4F24;"> - Mas maraming produkto ang mapagpipilian sa pamilihan. </li> <br>
+    <li style="color:#7B4F24;"> - Napapataas nito ang kalidad ng mga produkto na mabibili sa pamilihan. </li> <br>
+    <li style="color:#7B4F24;"> - Nagkakaroon ng pagkakaunawaan ang mga mamamayan ng bansang nakikipagkalakalan. </li> <br>
+    <li style="color:#7B4F24;"> - Lumalawak ang pamilihan ng mga produkto sa bansa. </li> <br>
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Di-kabutihan ng Pakikipagkalakalan: </h3><br>
+<ul>
+    <li style="color:#7B4F24;"> - Nagiging palaasa ang mga mamamayan sa produktong imported. </li> <br>
+    <li style="color:#7B4F24;"> - Hindi nalilinang ang pagkamalikhain ng mga mamamayan dahil umaasa na lamang sila sa mga produktong gawa sa ibang bansa. </li> <br>
+    <li style="color:#7B4F24;"> - Pagkawala ng sariling pagkakakilanlan bunga ng pagpasok ng dayuhang kultura sa lipunan. </li> <br>
+</ul> <br>
+
+<p  class="AP"> <b> Association of Southeast Asian Nations (ASEAN) </b> </p> <br>
+<img src="asean1.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - Itinatag noong Agosto 8, 1967; ang samahang ito’y naglalayong paunlarin ang ugnayan ng mga bansa sa Timog Silangang Asya. </li> 
+</ul> <br>
+
+<p  class="AP"> Layunin ng ASEAN: </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Maging ganap ang pagnanais na ito’y nagkaroon ng kasunduang tinawag na ASEAN Free Trade Area (AFTA) na nilagdaan noong Enero 28, 1992 sa Singapore. </li> 
+    <li style="color:#7B4F24;"> - Ito’y nakabatay sa konsepto ng CEPT. </li> 
+    <li style="color:#7B4F24;"> <b> Common Effective Preferential Tariff (CEPT): </b> programang nagsusulong ng pag-aalis ng taripa & quota upang maging ganap ang pagdaloy ng produkto sa mga bansang kasapi ng ASEAN. </li> 
+</ul> <br>
+
+<p  class="AP"> World Trade Organization </p> <br>
+<img src="wto.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+
+<ul>
+    <li style="color:#7B4F24;"> - Pormal na pinasinayaan at nabuo noong Enero 1, 1995. </li> 
+    <li style="color:#7B4F24;"> - Ito’y kinikilala bilang samahang namamahala sa pandaigdigang patakaran ng sistemang kalakalan o global trading system sa pagitan ng mga kasaping estado o member states. </li> 
+    <li style="color:#7B4F24;"> Sa kasalukuyan, ito ay binubuo ng 160 bansang kasapi. </li> 
+</ul> <br>
+
+<p  class="AP"> Layunin ng WTO: </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Pagsusulong ng isang maayos & malayang kalakalan sa pamamagitan ng pagpapababa sa mga hadlang sa kalakalan o trade barriers. </li> 
+    <li style="color:#7B4F24;"> - Pagkakaloob ng mga plataporma para sa negosasyon & nakahandang magbigay tulong-teknikal & pagsasanay para sa mga papaunlad na bansa o developing countries. </li> 
+</ul> <br>
+
+<p  class="AP"> Asia-Pacific Economic Council (APEC) </p> <br>
+<img src="apec.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<ul>
+    <li style="color:#7B4F24;"> - Itinatag noong Nobyembre 1989 & ang punong himpilan nito ay matatagpuan sa Singapore. </li> 
+    <li style="color:#7B4F24;"> - Ito’y isang samahang may layuning isulong ang kaunlarang pang- ekonomiya & katiwasayan sa rehiyong Asia-Pacific kaugnay na rin ng pagpapalakas sa mga bansa & pamayanan nito. </li> 
+</ul> <br>
+
+<p  class="AP"> Layunin ng APEC: </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> - Liberalisasyon ng pakikipagkalakalan at pamumuhunan. </li> 
+    <li style="color:#7B4F24;"> - Pagpapabilis & pagpapadali ng pagnenegosyo. </li> 
+    <li style="color:#7B4F24;"> - Pagtutulungang pang-ekonomiya at teknikal. </li> 
+</ul> <br>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> Epekto sa Ekonomiya ng Impormal na Sektor: </h3><br>
+<ul>
+    <li style="color:#7B4F24;"> -  Pagbaba ng halaga ng nalilikom na buwis. </li> <br>
+    <li style="color:#7B4F24;"> - Paglaganap ng mga ilegal na gawain. </li> <br>
+    <li style="color:#7B4F24;"> - Banta sa kapakanan ng mga mamimili. </li> <br>
+</ul> <br>
+
+<br><br><br>
+
+<a class="back AP" href="4AP6.html"> &#8593; Back to Top </a> <br><br>
+
+
+</body>
+</html>

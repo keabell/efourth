@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('parchment2.jpg'); background-size: contain; background-repeat:repeat; color: white;">
+
+<h1 class="heading AP"> E-Portfolio </h1>
+
+<div class="topnav AP">
+  <a class="nav AP" href="index.html">Home</a>
+  <a class="nav AP" href="abtme.html">My Personal Space</a>
+  <a class="nav AP" href="ICT.html">ICT</a>
+  <a class="nav AP" href="AP.html">AP</a>
+  <a class="nav AP" href="events.html">Events</a>
+</div>
+<br><br>
+
+
+<main>
+     <a class="back AP" href="Q4TH.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content AP"> Lesson 1 : Pambansang Kaunlaran </h1><br><br>
+<p class="AP"> Isang estado ng bansa kung saan tinatamasa ng mga tao mula sa pinakamababang uri ng mamamayan ang nakakamanghang pagbabago sa ekonomiya at pamumuhay </p>
+
+<h3 class="text AP" style="font-size:30px;"> Mga Konsepto ng Pambansang Kaunlaran </h3> <br>
+
+<ol style="padding:14px 7px; font-size:13px;">
+  <li style="color:#7B4F24;">1. Pagbabago <br>
+     <ul> 
+         <li style="color:#7B4F24; margin-top:-10px;"> Paraan upang maging iba o naiiba </li> <br>
+         <li style="color:#7B4F24; margin-top:-30px;"> Proseso ng pag-iiba o pagkakaroon ng kaibahan sa lipunan at ekonomiya </li> 
+     </ul></li> <br>
+  <li style="color:#7B4F24;">2. Pag-unlad <br> 
+     <ul> 
+         <li style="color:#7B4F24; margin-top:-10px;"> Pagbabago mula sa mababa tungo sa mataas na antas ng pamumuhay </li> <br>
+         <li style="color:#7B4F24; margin-top:-30px;"> Pag-angat, pagsulong, o paglago sa pangkalahatang aspeto ng pamumuhay </li> <br>
+         <li style="color:#7B4F24; margin-top:-30px;"> Isang progresibo at aktibong proseso at ang pagsulong ay produkto nito (FAJARDO) </li> <br>
+         <li style="color:#7B4F24; margin-top:-30px;"> Ang kaunlaran ay matatamo lamang kung mapauunlad ang yaman ng buhay ng mga tao kaysa sa yaman ng ekonomiya nito (AMARTYA SEN) </li> 
+     </ul></li><br>
+  <li style="color:#7B4F24;">3. Pagsulong
+     <ul> 
+         <li style="color:#7B4F24; margin-top:-10px;"> Pag-usad tungo sa iyong layunin o goal </li> <br>
+         <li style="color:#7B4F24; margin-top:-30px;"> Pagpapaunlad ng kakayahan, kaalaman, at abilidad upang makasabay sa agos ng buhay </li>
+     </ul></li><br>
+  <li style="color:#7B4F24;">4. Ebolusyon
+     <ul> 
+         <li style="color:#7B4F24; margin-top:-10px;"> Pagbabago sa mga katangian sa loob ng mahabang panahon </li> <br>
+         <li style="color:#7B4F24; margin-top:-30px;"> Anuman ang unang dumating ay mas mabuti sa sinundang panahon </li>
+     </ul></li><br>
+</ol>
+
+<table style="width:80%; border-collapse: collapse; margin: 20px auto; background-color:#FDF6E3; border:2px solid #7B4F24; color:#7B4F24; font-family:Arial; text-align:left;">
+  <tr>
+    <th colspan="2" style="background-color:#C7A17A; color:#FAF3E0; padding:10px; border:2px solid #7B4F24; font-size:18px;">DALAWANG KONSEPTO NG PAG-UNLAD (TODARO & SMITH, 2012)</th>
+  </tr>
+  <tr>
+    <td style="background-color:#FAF3E0; color:#7B4F24; padding:10px; border:2px solid #7B4F24; font-weight:bold;">TRADISYUNAL</td>
+    <td style="background-color:#FDF6E3; color:#7B4F24; padding:10px; border:2px solid #7B4F24;">Pagtamo ng patuloy na pagtaas ng income per capita.</td>
+  </tr>
+  <tr>
+    <td style="background-color:#FAF3E0; color:#7B4F24; padding:10px; border:2px solid #7B4F24; font-weight:bold;">MAKABAGO</td>
+    <td style="background-color:#FDF6E3; color:#7B4F24; padding:10px; border:2px solid #7B4F24;">Dapat na kumakatawan sa malawakang pagbabago sa buong sistemang panlipunan.</td>
+  </tr>
+</table>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold;"> MGA SALIK NA MAAARING MAKATULONG SA PAGSULONG NG EKONOMIYA </h3>
+   <ol style="padding:14px 7px; font-size:13px;">
+      <li style="color:#7B4F24;">1. Likas na yaman</li>
+      <li style="color:#7B4F24;">2. Yamang-tao</li>
+      <li style="color:#7B4F24;">3. Kapital</li>
+      <li style="color:#7B4F24;">4. Teknolohiya at Inobasyon</li>
+   </ol>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> MGA PALATANDAAN NG PAG-UNLAD </h3>
+<ol style="padding:14px 7px; font-size:13px;">
+  <li style="color:#7B4F24;">1. Makatwiran at dinamikong kaayusan ng panlipunan</li>
+  <li style="color:#7B4F24;">2. Kasaganaan at kasarinlan</li>
+  <li style="color:#7B4F24;">3. Kalayaan sa kahirapan, hanapbuhay para sa lahat, umaangat na istandard ng pamumuhay, at mainam na uri ng buhay para sa lahat</li>
+  <li style="color:#7B4F24;">4. Sapat na mga lingkurang panlipunan</li>
+  <li style="color:#7B4F24;">5. Katarungang panlipunan</li>
+</ol>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> SUKATAN NG KAUNLARAN NG BANSA AYON SA UNITED NATIONS </h3>
+<ul>
+    <li style="color:#7B4F24;"> Maliban sa paggamit ng GDP at GNP, ginagamit ang Human Development Index (HDI) bilang isa sa mga panukat sa antas ng pag-unlad ng isang bansa. </li> <br> 
+    <li style="color:#7B4F24;"> Human Development Index (HDI) Pangkalahatang sukat ng kakayahan ng isang bansa na matugunan ang mahahalagang aspekto ng kaunlarang pantao. Kabilang dito ang kalusugan, edukasyon, at antas ng pamumuhay. </li> 
+<img src="hdi.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+<img src="un.jpg" alt="Photo" style="border:3px solid #C7A17A; background-color:#FAF3E0; padding:10px; border-radius:15px; width: 300px; height:200px;">
+</ul>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> ANTAS NG KAUNLARAN NG BANSA </h3><br>
+<p class="AP"> <b> Maunlad na Bansa o Developed Economies </b> </p> <br>
+<ul>
+    <li style="color:#7B4F24;"> Mga bansang may mataas na GDP, income per capita, at mataas na HDI Umuunlad na Bansa o Developing Economies </li> <br>
+    <li style="color:#7B4F24;"> Mga bansang may mga industriyang kasalukuyang pinauunlad ngunit wala pang mataas na antas ng industriyalisasyon </li> <br>
+    <li style="color:#7B4F24;"> Hindi pantay ang GDP at HDI </li> <br> 
+</ul>
+<p  class="AP"> <b> Papaunlad na Bansa o Underdeveloped Economies </b> </p> 
+<ul>
+    <li style="color:#7B4F24;"> Mga bansang kung ihahambing sa iba ay kulang sa industriyalisasyon </li> <br>
+    <li style="color:#7B4F24;"> Mababang antas ng agrikultura at mababang GDP, income per capita, at HDI </li> 
+</ul>
+
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> MGA TUNGKULIN PARA SA PAG-UNLAD NG BANSA </h3>
+<ul> 
+    <li style="color:#7B4F24;"> Suportahan ang ating pamahalaan. </li>
+    <li style="color:#7B4F24;"> Sundin at igalang ang batas. </li>
+    <li style="color:#7B4F24;"> Alagaan ang ating kapaligiran. </li>
+    <li style="color:#7B4F24;"> Tumulong sa pagpuksa sa korapsyon at katiwalian sa pamahalaan. </li>
+    <li style="color:#7B4F24;"> Maging produktibo. </li>
+    <li style="color:#7B4F24;"> Tangkilikin ang mga produktong Pilipino. </li>
+    <li style="color:#7B4F24;"> Magtipid ng enerhiya. </li>
+    <li style="color:#7B4F24;"> Makilahok sa mga gawaing pansibiko. </li>
+</ul>
+
+<h3 style="color:#FAF3E0; background-color:#C7A17A; padding:10px 15px; border:2px solid #7B4F24; border-radius:10px; display:inline-block; font-family:Arial; font-size:28px; font-weight:bold; margin-top:20px;"> MGA GAMPANIN NG MAMAMAYAN SA PAG-UNLAD NG BANSA </h3>
+
+<ul>
+   <p class="AP"> Mapanagutan </p> <br>
+   <li style="color:#7B4F24; margin-left:25px;">Tamang pagbabayad ng buwis </li>
+   <li style="color:#7B4F24; margin-left:25px;"> Makialam </li>
+   <p class="AP"> Maabilidad </p> <br>
+   <li style="color:#7B4F24; margin-left:25px;"> Bumuo o sumali sa kooperatiba </li>
+   <li style="color:#7B4F24; margin-left:25px;"> Pagnenegosyo </li>
+   <p class="AP"> Maalam </p> <br>
+   <li style="color:#7B4F24; margin-left:25px;"> Tamang pagboto </li>
+   <li style="color:#7B4F24; margin-left:25px;"> Pagpapatupad at pakikilahok sa mga proyektong pangkaunlaran sa komunidad </li>
+   <p class="AP"> Makabansa </p> <br>
+   <li style="color:#7B4F24; margin-left:25px;"> Pakikilahok sa pamamahala ng bansa (participative governance) </li> 
+   <li style="color:#7B4F24; margin-left:25px;"> Pagtangkilik sa mga produktong Pilipino </li>
+</ul>
+
+
+<br><br><br>
+
+<a class="back AP" href="4AP1.html"> &#8593; Back to Top </a> <br><br>
+
+
+</body>
+</html>

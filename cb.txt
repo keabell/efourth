@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Confirm Box</title>
+ <script type="text/JavaScript">
+ function show_confirm()
+ {var ans=confirm("Do you want to proceed?");
+ if(ans==true)
+ {document.write("You have entered stage 2");}
+ else
+ {document.write("You are still at stage 1");
+</script></head><body>
+ <input type="button" onclick="show_confirm()" value="show confirm box">
+</body>
+</html>
+
+<br>
+<a href="4ICT4.html"> &#8592; Back </a> <br><br>

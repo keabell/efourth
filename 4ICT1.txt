@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body style="background-image: url('background.jpg'); background-size: cover; background-repeat: no-repeat; color: white;">
+
+<h1 class="heading"> E-Portfolio </h1>
+
+<div class="topnav">
+  <a class="nav" href="index.html">Home</a>
+  <a class="nav" href="abtme.html">My Personal Space</a>
+  <a class="nav" href="ICT.html">ICT</a>
+  <a class="nav" href="AP.html">AP</a>
+  <a class="nav" href="events.html">Events</a>
+</div>
+<br><br>
+
+<a class="back" href="4THQ.html"> &#8592; Back </a> <br><br><br>
+
+<h1 class="content"> Lesson 1 : Introduction to JavaScript </h1><br>
+
+<h3 class="textf" style="font-size:20px;"> Purpose </h3>
+<p> To create dynamic, interactive user experiences, handling everything from UI rendering (like React for Facebook) and content loading to real-time updates, personalized feeds, video controls (captions, volume), and tracking user activity (Meta Pixel). </p> <br><br><br><br>
+
+<a class="fourth" style="padding:20px 30px; margin:320px;" href="StaticDynamic.html"> Static Website &nbsp; &nbsp; VS &nbsp; &nbsp; Dynamic Website </a>
+<br><br><br>
+
+<h3 class="text" style="font-size:30px;"> JavaScript </h3>
+<ul>
+    <li> The MOST popular & widely used scripting language on the internet. </li> <br>
+    <li> Recognized & works in all major browsers. </li> <br>
+    <li> Developed by Brendan Eich of Netscape under the name Mocha, which was later renamed to LiveScript. </li> <br>
+    <li> Opened to Internet Explorer in 1996. </li> <br>
+    <li> Enhances webpages and can be used to build video games. </li> <br>
+    <li> A trademark of the Oracle Corporation and is licensed for use to other entities like Mozilla Foundation. </li> <br>
+    <li> A <b> client-side, </b> high-level scripting, interpreted & object-oriented. </li> <br>
+
+<p style="margin-left:100px;"> <b> <u> Client-side </u> - </b> the codes and formulas are processed right on the user’s own computer. <br> 
+<b><u> High-level scripting </u> - </b> codes are written in words that are close to English as possible. <br> 
+<b><u> Interpreted </u> – </b> the program is passed as source code then converted into machine code.</p>
+
+    <li> Designed to add interactivity and functionality to the Web site. Thus making the contents more dynamic and the elements are enhanced. </li> <br>
+    <li> Case-sensitive. </li> <br>
+    <li> Semi-colons at the end if each statement are not required. </li> 
+</ul>
+
+<h3 class="textf" style="font-size:30px;"> What can JavaScript do? </h3> 
+
+<ul>
+    <li> Can react to <u>events</u> - certain events such as mouse clicks, and pre-loading of webpage can lead to executing codes written in JavaScript.        </li> <br>
+    <li> Can be used to <u>validate data</u> - form requires user input, instead of using serverside scripting, JavaScript can be used to validate it and thus save processing time. </li> <br>
+    <li> Can be used to <u>create cookies</u> - Used to save or retrieve information from a visitor’scomputer. This can be used to monitor the visitor’s
+internet habit and preferences. </li> <br>
+    <li> Can enhance a <u>webpage</u> </li>
+</ul> <br><br>
+
+<h3 class="text" style="font-size:30px;"> Features of JavaScript </h3> 
+
+<ul>
+    <li> Supports all structured programming syntax in C </li> <br>
+    <li> Has dynamic typing, the value of the variable is dependent on what the value was assigned to it even during run time, the type can still change.   </li> <br>
+    <li> Can run locally in a Web site, so interaction within the user and the site is faster or more responsive.
+ </li> <br>
+    <li> Can detect user actions, such as mouse clicks, which HTML could not do alone. </li> <br>
+    <li> Can be combined with CSS to produce DHTML. DHTML can make site more flexible by adding effects such as message scrollers, mouse trails and falling snow. </li>
+</ul> 
+
+<h3 class="textf" style="font-size:30px;"> Characteristics of JavaScript </h3> 
+
+<ul>
+    <li> Lightweight programming language </li> <br>
+    <li> Inserted into HTML pages </li> <br>
+    <li> Supported by all modern web browsers </li> <br>
+    <li> Easy to learn and encoder-friendly </li> <br>
+    <li> Quick to download effects </li> <br>
+    <li> No need for any extra tools to write </li> <br>
+    <li> License-free </li> <br>
+    <li> Has a thriving and supportive online community of JavaScript developers and information resources </li>
+</ul> 
+
+<h3 class="text" style="font-size:30px;"> Disadvantages of JavaScript </h3> 
+
+<ul>
+    <li> Some browsers do not support JS. Examples are PDA and mobile phones do not execute JS. Some browsers disable execution of JS as a security precaution. </li> <br>
+    <li> Any secret embedded in JS could be extracted by a determined adversary </li> <br>
+    <li> JS and DOM (Document Object Model) provide potential for malicious authors to deliver scripts to run on a client computer via web. </li> <br>
+    <li> Web site authors cannot perfectly conceal how their JS operates because the code is sent to the client. </li> <br>
+    <li> Source codes that have been deliberately made hard to understand can be reverse engineered so your codes are still exposed to possible threat. </li> 
+</ul> 
+
+<h1 class="content" style="font-size:20px;"> Note </h1>
+<p> A script is a set of computer instructions or commands that puts together or connects existing components to accomplish a new related task. JavaScript is a powerful scripting language used to create web functionalities. A text editor and a web browser are the tools needed in JavaScripting. The basic components of JavaScript language are objects, methods and properties. </p> <br>
+
+<img src="mfJS.jpg" alt="mfJS" width="300" height="200"> <br>
+
+<a class="output" href="mfJS.html"> Browser Output </a> <br> 
+
+<img src="Difference.jpg" alt="Difference" width="300" height="200"> <br>
+
+<br><br><br><br>
+<a class="back" href="4ICT1.html"> &#8593; Back to Top </a> <br><br>
+
+</body>
+</html>
