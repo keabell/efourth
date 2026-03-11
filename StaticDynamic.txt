@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title> E-Portfolio </title>
+<link rel="stylesheet" href="portfolio.css" type="text/css">
+</head>
+<body>
+
+<h1 class="content"> Static Website </h1><br><br>
+<p> A static web page, sometimes called a flat page or a stationary page, is a <u> web page </u> that is delivered to a <u> web browser </u> exactly as stored. <br>
+Example: Photographer’s portfolio </p>
+
+<br><br><br>
+
+<h1 class="content"> Dynamic Website </h1><br><br>
+<p> A dynamic website is a type of website that displays different content and interacts with users based on their actions, preferences, or other variables. <br> Example: Social Media Platforms </p>
+
+<br><br><br>
+
+<a class="back" href="4ICT1.html"> &#8592; Back </a> <br><br><br>
+
+</body>
+</html>
